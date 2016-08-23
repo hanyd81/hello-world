@@ -390,13 +390,6 @@ def decrypt_fable():
 
 
 
-
-
-
-
-
-
-
 def find_shifts(wordlist,text,start=0):
 
     for i in range(0,27):
